@@ -53,7 +53,7 @@ Javascript Algorithms and Data Structures Certification - FreeCodeCamp (In Progr
 ## How to reach me
 [![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/imWitty)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/alexjwitt/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexwitt0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexwitt0@gmail.com)
 
 
 ______
