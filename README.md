@@ -4,6 +4,7 @@
 Hey! I'm a student at ASU working towards both my bachelors and masters in software engineering. I am a veteran of the Marines and love sharing my experience with others in any way possible to help people grow and improve. I am proficient in Java, C/C++, SQL databases, HTML, Javascript, a few others and many common design ideologies. I hope to expand my knowledge as much as possible and eventually produce many ideas that I have for projects as I grow in software!
 
 Actively Learning/Expanding knowledge - HTML (completing my certification), Javascript (Completing my certification), Swift (Learning, might attempt to complete a certication)
+
 What I want to focus on next - AWS (using in a course and I see this around a lot), React (I see this in a lot of different job postings and want to be well rounded), C#(I like the idea of game development)
 
 ## 2024 Internship
@@ -46,12 +47,13 @@ Here is a list of misc. projects/assignments I have done over the course of my d
 _____
 ## Certifications
 Responsive Web Design Certification - FreeCodeCamp (In Progress) - Will upload once complete
+
 Javascript Algorithms and Data Structures Certification - FreeCodeCamp (In Progress) - Will upload once complete
 
 ## How to reach me
 [![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/imWitty)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/alexjwitt/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) alexwitt0@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (alexwitt0@gmail.com)
 
 
 ______
