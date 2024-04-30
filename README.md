@@ -25,14 +25,14 @@ I am proficient in a variety of languages and software frameworks that allow me 
 I am an avid gym goer and gamer. These two hobbies are my most common. I often go through different cycles for the gym and enjoy sharing my progress. I am a PC gamer and play just about everything! I am not much of a social media user outside of professional uses. I like to think of myself as pretty open to doing just about anything and trying new things! I love active hobbies such as golfing or sports all the way to indoor hobbies like games and watching movies. I recently have started getting into rock climbing, it has been a blast and extremely challenging. I am a trivia addict and love anything that deals with *attempting* to be smart in order to answer (crosswords, trivia, games like wordle). I am both reserved and talkative. I tend to be extremely friendly and like to ease tensions with a relaxed approach and demeanor. I am always open to speaking my mind, challenging ideas, or asking questions but this does not mean it has to be in a rude way, mostly it is intended to be inqusitive or offer unique approaches, because either myself or the person I am asking may not understand the situation fully and need clarification. 
 -->
 
-## Projects 
+## [Projects](https://github.com/imWitty/Projects)
 
-### [CLI Chat Room - PostgreSQL](https://github.com/imWitty/CLIChatroom-Postgres)
+### [CLI Chat Room - PostgreSQL](https://github.com/imWitty/Projects)
 Gives users ability to create an account and participate in public chat rooms or create their own
 Users can send messages actively or join and request the chat room history to see any missed conversations
 Interacts with Postgresql databases to keep all information stored, allows users to delete or change their information freely
 
-### [Checkers](https://github.com/imWitty/CheckersGame) 
+### [Checkers](https://github.com/imWitty/Projects) 
 Created in Java, developed checkers with a full GUI, with CLI support, and AI that supports single-player and multiplayer functionality.
 Constructed a GUI interface by using JavaFX and implemented user interaction features.
 Utilized Inheritance, Interfaces, Generics, GUI, and OOP to provide an interactive game.
@@ -40,16 +40,13 @@ Applied class and method diagramming for efficient software engineering and test
 Includes an example with a simple rock, paper, scissors game that shows the ability to connect to a server 
 to play someone remotely
 
-### [Workout/Diet Health Database - MySQL](https://github.com/imWitty/HealthDatabase) 
+### [Workout/Diet Health Database - MySQL](https://github.com/imWitty/Projects)) 
 Developed CLI App that provides users with diet and exercise information based on their inputs and goals
 Utilized MySQL to store diet and fitness information as well as user personal information for each account
 Created freedom for users to change personal information and request different workouts, also to store personal bests.
 Had many different experience levels for users to get uniquely customized experiences with 
 different experience levels and fitness goals
-
-### [Misc Assignments](https://github.com/imWitty/MiscAssignments/branches) 
-Here is a list of misc. projects/assignments I have done over the course of my degree. I do not believe that any of these are specifically significant, but each will have a brief descriptive title if you are looking for a certain skill. This will give you a brief idea of how I handle certain problems or approach a standard problem in an attempt to solve it. 
-
+ 
 _____
 ## Certifications
 Responsive Web Design Certification - FreeCodeCamp (In Progress) - Will upload once complete
