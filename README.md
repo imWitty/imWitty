@@ -40,7 +40,7 @@ Applied class and method diagramming for efficient software engineering and test
 Includes an example with a simple rock, paper, scissors game that shows the ability to connect to a server 
 to play someone remotely
 
-### [Workout/Diet Health Database - MySQL](https://github.com/imWitty/Projects)) 
+### [Workout/Diet Health Database - MySQL](https://github.com/imWitty/Projects) 
 Developed CLI App that provides users with diet and exercise information based on their inputs and goals
 Utilized MySQL to store diet and fitness information as well as user personal information for each account
 Created freedom for users to change personal information and request different workouts, also to store personal bests.
