@@ -49,7 +49,7 @@ different experience levels and fitness goals
  
 _____
 ## Certifications
-Responsive Web Design Certification - FreeCodeCamp (In Progress) - Will upload once complete
+[Responsive Web Design Certification](https://github.com/imWitty/Certifications/blob/main/HTMLCert.PNG)
 
 Javascript Algorithms and Data Structures Certification - FreeCodeCamp (In Progress) - Will upload once complete
 
