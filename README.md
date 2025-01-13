@@ -26,7 +26,7 @@ I am proficient in a variety of languages and software frameworks that allow me 
 I am an avid gym goer and gamer. These two hobbies are my most common. I often go through different cycles for the gym and enjoy sharing my progress. I am a PC gamer and play just about everything! I am not much of a social media user outside of professional uses. I like to think of myself as pretty open to doing just about anything and trying new things! I love active hobbies such as golfing or sports all the way to indoor hobbies like games and watching movies. I recently have started getting into rock climbing, it has been a blast and extremely challenging. I am a trivia addict and love anything that deals with *attempting* to be smart in order to answer (crosswords, trivia, games like wordle). I am both reserved and talkative. I tend to be extremely friendly and like to ease tensions with a relaxed approach and demeanor. I am always open to speaking my mind, challenging ideas, or asking questions but this does not mean it has to be in a rude way, mostly it is intended to be inqusitive or offer unique approaches, because either myself or the person I am asking may not understand the situation fully and need clarification. 
 -->
 
-## [Projects](https://github.com/imWitty/Projects)
+## [Projects Made for Classes](https://github.com/imWitty/Projects)
 
 ### [CLI Chat Room - PostgreSQL](https://github.com/imWitty/Projects)
 Gives users ability to create an account and participate in public chat rooms or create their own
@@ -52,7 +52,6 @@ _____
 ## Certifications
 [Responsive Web Design Certification](https://github.com/imWitty/Certifications/blob/main/HTMLCert.PNG)
 
-Javascript Algorithms and Data Structures Certification - FreeCodeCamp (In Progress) - Will upload once complete
 
 ## How to reach me
 [![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/imWitty)
