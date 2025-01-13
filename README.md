@@ -1,19 +1,20 @@
 ## Hi there, I'm Alexander Witt 👋  
 ----
 
-Hey! I'm a student at ASU working towards both my bachelors and masters in software engineering. I am a veteran of the Marines and have over 5000 hours of technical training as a leader. This extensive background equips me with unique perspectives and skills, which I actively apply to enhance both my personal development and the growth of my team. I am proficient in Java, C/C++, SQL databases, HTML, Javascript, a few others and many common design ideologies. I hope to expand my knowledge as much as possible and eventually produce many ideas that I have for projects as I grow in software!
+I'm a student at ASU in my final semester for my Bachelors of Science in Software Engineering. I am a veteran of the Marines and have over 5000 hours of technical training as a leader. This extensive background equips me with unique perspectives and skills, which I actively apply to enhance both my personal development and the growth of those around me. I am proficient in Java, C/C++, SQL databases, HTML, Javascript, a few others and many common design ideologies. I hope to expand my knowledge as much as possible and eventually produce many ideas that I have for projects as I grow in software!
 
-Actively Learning/Expanding knowledge - HTML (completed certification listed below April 2024), Javascript (Completing my certification), Swift (I plan to transition this into app development, I have many ideas that I am passionate about that I believe are either fun, helpful, or cutting edge for the market.)
+Actively Learning/Expanding knowledge - I am currently committing a lot of my time to learning everything I can regarding Amazon/AWS services. With an accepted return offer to AWS Workspaces I want to be as prepared and knowledgable as possible as I continue there.
 
 What I want to focus on next - React (I want to strengthen my web development and believe that Reacts flexibility is the most useful way to be versatile. From my time as an aviation mechanic I realized that being versatile and knowledgable was one of the best feelings, the feeling of being reliable and knowledgable pushed me to learn more and know as much as I could. ), C# (I have always loved games as they have been a big part of my life and hobbies, as well as meeting many of the friends I keep close today. I would be passionate and proud of being able to create one.)
 
-## 2024 Internship
+## Career
 
-I am actively looking for a summer 2024 internship. I am hungry to learn as much as possible from this internship and am open to working during the school semesters. I am very flexible and an extremely motivated worker. I believe that my work ethic is often unlike any that others have seen and I believe it is well complimented by my charismatic and friendly leadership/team oriented style.
+I have currently accepted a return offer to be apart of AWS workspaces for May of 2025. I got the opportunity to intern here in the summer of 2024 and had an incredible experience both with the company and the team, mentors, and managers I had. I am extremely excited to return here and look forward to growing in my capacity as a software engineer.
+
 
 ## 🔭 I’m currently working on
 
-I'm actively pursuing my degree but outside of that I often spend time attempting to self-teach or complete software certificates! One of my main aspirations is to create an iPhone app that I can proudly share with others and that reflects my personal interests as well.
+I'm actively pursuing my degree but outside of that I often spend time attempting to self-teach or complete software certificates! One of my main aspirations is to create an iPhone app that I can proudly share with others and that reflects my personal interests as well. Other future goals include game development and growth in software management and leadership.
 
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
